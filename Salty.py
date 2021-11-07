@@ -96,7 +96,7 @@ def tech_abm():
             os.system("clear")
             print logo 
             print ("\033[1;91m[+]\033[1;92m Username : HELLO\033[1;92m (Correct)")
-            print ("\033[1;91m[+]\033[1;92m Password : NIKI\033[1;92m (Correct)")
+            print ("\033[1;91m[+]\033[1;92m Password : BRO\033[1;92m (Correct)")
 	    print("\033[1;92m--------------------------------------------------")
             time.sleep(1)
             print('')
@@ -124,8 +124,6 @@ def login_choice():
     os.system("python3 .loading.md")
     os.system('clear')
     print logo
-    print ("\033[1;91m[1]\033[1;96m-⋄-\033[1;92mRandom Search Name Cloning \033[1;92m(\033[1;92mno login\033[1;96m) ")
-    print ("\033[1;91m[2]\033[1;96m-⋄-\033[1;92mRandom Number Cloning \033[1;92m(\033[1;92mno login\033[1;96m) ")
     print ("\033[1;91m[3]\033[1;96m-⋄-\033[1;92mClone Friendlist and Public ID\033[1;92m(\033[1;92mlogin\033[1;96m)    ")
     print ("\033[1;91m[0]\033[1;96m-⋄-\033[1;92mExit") 
     print("\033[1;92m------------------------------------------------")
